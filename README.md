@@ -1,0 +1,1 @@
+# 7-Days-of-Hands-On-AI-Development-Bootcamp-and-Certification-School-of-AI-Assignments
