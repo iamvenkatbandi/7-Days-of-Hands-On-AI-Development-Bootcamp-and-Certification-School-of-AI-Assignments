@@ -1,4 +1,4 @@
-# Day 3 Machine Learning Assignments
+# Day 3 Assignments
 
 ## Overview
 
