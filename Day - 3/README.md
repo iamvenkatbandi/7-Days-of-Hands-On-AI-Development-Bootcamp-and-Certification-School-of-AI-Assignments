@@ -98,7 +98,7 @@ Day-3/
 │   └── Assignment-3/
 │       └── Diabetes Dataset Training a Regression Model.ipynb
 │
-├── Hands-On Project
+├── Hands-On Project/
 |
 └── README.md
 ```
