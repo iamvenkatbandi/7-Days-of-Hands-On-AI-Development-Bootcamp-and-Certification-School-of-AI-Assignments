@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Movie Review Sentiment Analysis</title>
+
+</head>
+
+<body>
+
+    <h1>Movie Review Sentiment Analysis</h1>
+
+    <h3>Upload CSV File</h3>
+
+    <form action="/predict"
+          method="POST"
+          enctype="multipart/form-data">
+
+        <input
+            type="file"
+            name="file"
+            accept=".csv"
+            required>
+
+        <br><br>
+
+        <button type="submit">
+
+            Predict Sentiment
+
+        </button>
+
+    </form>
+
+</body>
+
+</html>
